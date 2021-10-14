@@ -1,0 +1,8 @@
+one process(Exit deletes the whole process even if it has multiple threads) same with return and value passed will be taken by exit.
+only one thread was created
+a.true b.true c.true d.false
+The performnce is improved as the each processor can be utilized to perform different tasks hence saves time.
+Yes,multiple threads would help achieve concurrency hence improvement.
+2.6 a)true b) false
+
+qn. parallelism vs concurrency
